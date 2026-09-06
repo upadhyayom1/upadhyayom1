@@ -15,7 +15,7 @@ Passionate about building scalable web applications and solving challenging algo
 - 🎓 B.Tech Computer Science & Engineering student at **MNNIT Allahabad**
 - 💻 Passionate about **Full Stack Web Development**
 - 🌱 Currently learning **Backend Development, System Design & Advanced React**
-- 🧠 Solved **250+ Data Structures & Algorithms problems**
+- 🧠 Solved **450+ Data Structures & Algorithms problems**
 - 🤝 Open Source Contributor (GSSoC)
 - 🚀 Preparing for Software Engineering Internships
 
