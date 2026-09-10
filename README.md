@@ -61,13 +61,13 @@ The platform combines traffic data, backend services, analytics, and visualizati
 
 An AI-powered platform that helps students and citizens discover **government schemes, scholarships, jobs, and internships** based on their profiles and eligibility.
 
-The platform combines a full-stack web application with machine learning and LLM-powered features to provide personalized opportunities and assistance.
+The platform provides personalized opportunities, intelligent recommendations, and assistance through a modern full-stack web application.
 
 **Key Features**
 
 * 🔐 JWT-based user authentication
 * 👤 Personalized user profiles
-* 🧠 AI/ML-based opportunity matching
+* 🧠 Personalized opportunity matching
 * 🎓 Scholarship discovery
 * 💼 Job and internship recommendations
 * 🏛️ Government scheme discovery
@@ -79,7 +79,7 @@ The platform combines a full-stack web application with machine learning and LLM
 
 **Tech Stack**
 
-`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `Python` `Scikit-learn` `Groq LLM` `JWT`
+`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
 🔗 **[View Project →](https://github.com/upadhyayom1/JanSaarthi-AI)**
 
@@ -90,7 +90,7 @@ The platform combines a full-stack web application with machine learning and LLM
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
 </p>
 
 ### Frontend
@@ -109,14 +109,6 @@ The platform combines a full-stack web application with machine learning and LLM
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
-</p>
-
-### AI / Data
-
-<p>
-
-`Python` • `Scikit-learn` • `LLM Integration`
-
 </p>
 
 ### Tools & Platforms
